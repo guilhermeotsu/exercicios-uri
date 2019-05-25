@@ -1,0 +1,11 @@
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\bin\Debug\netcoreapp2.1\1077.deps.json
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\bin\Debug\netcoreapp2.1\1077.runtimeconfig.json
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\bin\Debug\netcoreapp2.1\1077.runtimeconfig.dev.json
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\bin\Debug\netcoreapp2.1\1077.dll
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\bin\Debug\netcoreapp2.1\1077.pdb
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\obj\Debug\netcoreapp2.1\1077.csprojAssemblyReference.cache
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\obj\Debug\netcoreapp2.1\1077.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\obj\Debug\netcoreapp2.1\1077.AssemblyInfoInputs.cache
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\obj\Debug\netcoreapp2.1\1077.AssemblyInfo.cs
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\obj\Debug\netcoreapp2.1\1077.dll
+C:\Users\guilherme1\Docs\C#\URI\1077\1077\obj\Debug\netcoreapp2.1\1077.pdb

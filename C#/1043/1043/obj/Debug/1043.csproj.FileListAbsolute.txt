@@ -1,0 +1,7 @@
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\bin\Debug\1043.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\bin\Debug\1043.exe
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\bin\Debug\1043.pdb
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\obj\Debug\1043.csprojAssemblyReference.cache
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\obj\Debug\1043.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\obj\Debug\1043.exe
+C:\Users\guilherme1\Documents\C#\URI\1043\1043\obj\Debug\1043.pdb

@@ -1,0 +1,6 @@
+C:\Users\guilherme1\Documents\C#\URI\1095\1095\bin\Debug\1095.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1095\1095\bin\Debug\1095.exe
+C:\Users\guilherme1\Documents\C#\URI\1095\1095\bin\Debug\1095.pdb
+C:\Users\guilherme1\Documents\C#\URI\1095\1095\obj\Debug\1095.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1095\1095\obj\Debug\1095.exe
+C:\Users\guilherme1\Documents\C#\URI\1095\1095\obj\Debug\1095.pdb

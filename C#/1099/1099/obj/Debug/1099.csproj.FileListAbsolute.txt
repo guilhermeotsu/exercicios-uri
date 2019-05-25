@@ -1,0 +1,14 @@
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\bin\Debug\1099.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\bin\Debug\1099.exe
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\bin\Debug\1099.pdb
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\obj\Debug\1099.csprojAssemblyReference.cache
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\obj\Debug\1099.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\obj\Debug\1099.exe
+C:\Users\guilherme1\Documents\C#\URI\1099\1099\obj\Debug\1099.pdb
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\bin\Debug\1099.exe.config
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\bin\Debug\1099.exe
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\bin\Debug\1099.pdb
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\obj\Debug\1099.csprojAssemblyReference.cache
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\obj\Debug\1099.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\obj\Debug\1099.exe
+C:\Users\guilherme1\Docs\C#\URI\1099\1099\obj\Debug\1099.pdb

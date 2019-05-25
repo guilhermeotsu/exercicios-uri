@@ -1,0 +1,7 @@
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\bin\Debug\1066.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\bin\Debug\1066.exe
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\bin\Debug\1066.pdb
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\obj\Debug\1066.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\obj\Debug\1066.exe
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\obj\Debug\1066.pdb
+C:\Users\guilherme1\Documents\C#\URI\1066\1066\obj\Debug\1066.csprojAssemblyReference.cache

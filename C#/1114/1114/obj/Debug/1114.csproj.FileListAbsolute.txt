@@ -1,0 +1,6 @@
+C:\Users\guilherme1\Documents\C#\URI\1114\1114\bin\Debug\1114.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1114\1114\bin\Debug\1114.exe
+C:\Users\guilherme1\Documents\C#\URI\1114\1114\bin\Debug\1114.pdb
+C:\Users\guilherme1\Documents\C#\URI\1114\1114\obj\Debug\1114.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1114\1114\obj\Debug\1114.exe
+C:\Users\guilherme1\Documents\C#\URI\1114\1114\obj\Debug\1114.pdb

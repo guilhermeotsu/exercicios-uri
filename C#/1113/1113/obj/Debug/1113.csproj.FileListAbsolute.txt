@@ -1,0 +1,7 @@
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\bin\Debug\1113.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\bin\Debug\1113.exe
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\bin\Debug\1113.pdb
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\obj\Debug\1113.csprojAssemblyReference.cache
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\obj\Debug\1113.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\obj\Debug\1113.exe
+C:\Users\guilherme1\Documents\C#\URI\1113\1113\obj\Debug\1113.pdb

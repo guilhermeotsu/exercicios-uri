@@ -1,0 +1,7 @@
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\obj\Debug\1079.csprojAssemblyReference.cache
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\obj\Debug\1079.csproj.CoreCompileInputs.cache
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\bin\Debug\1079.exe.config
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\bin\Debug\1079.exe
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\bin\Debug\1079.pdb
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\obj\Debug\1079.exe
+C:\Users\guilherme1\Documents\C#\URI\1079\1079\obj\Debug\1079.pdb
